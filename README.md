@@ -1,3 +1,4 @@
 # Bitacora
-Mi bitacora
+Proyecto realizado con el fin de investigar conceptos de tecnologia
+
 
